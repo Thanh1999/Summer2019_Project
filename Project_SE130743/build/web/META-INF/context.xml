@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Project_SE130743">
+<Resource name="PRJ" type="javax.sql.DataSource" auth="Container"
+          driverClassname="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+          url="jdbc:sqlserver://localhost:1433;databaseName=TransactionProject;instanceName=SE130743\\SQLEXPRESS"
+          username="sa" password="hoilamchi123"/> 
+
+</Context>
